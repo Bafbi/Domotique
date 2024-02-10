@@ -3,3 +3,7 @@
 Hi, I'm Bafbi. I aggreed breaking the rules by using macros mod and doing knowingly. But I don't believe it was giving me unfair advantage. During the time I used one, I only went to the housing minigame and only that. I started using them after trying to create my own public housing and discovering the htsl Chattrigger module on the forums, it was advertise as "using it at your own risk" but didn't think it will have real consequences. After a bit I wanted to create my own housing tool and start create a macro with the JsMacro mod cause I had more experience with it. I believe this is the jsmacro mod that got me banned because I already got ban by it by launching the game with it previously.
 
 I understand the ban and do not expect much from this appeal, I just standing my case in a hope to be able to continue trying to create some great public housing for the community. With the help of tools or not if I'm not allowed to.
+
+Best regards, Bafbi
+Contact: bafbi (on discord)
+The tool: https://github.com/Bafbi/Domotique
