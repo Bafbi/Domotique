@@ -1,0 +1,20 @@
+{
+  "name": "domotique",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "esbuild domotique/index.ts --bundle --platform=node --outfile=dist/domotique.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "esbuild": "0.20.0"
+  },
+  "dependencies": {
+    "js-toml": "^1.0.0",
+    "toml": "^3.0.0",
+    "zod": "^3.22.4"
+  }
+}

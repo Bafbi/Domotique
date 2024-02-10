@@ -1,0 +1,22 @@
+{
+  "compilerOptions": {
+    "module": "ES2022",
+    "moduleResolution": "Bundler",
+    "removeComments": false,
+    "target": "ES2022",
+    "lib": ["ES2022"],
+    "outDir": "./dist",
+    "skipLibCheck": true,
+    "typeRoots": []
+  },
+  "include": [
+    "scripts/**/*.ts",
+    "domotique/**/*.ts",
+    "headers/*.d.ts"
+  ],
+  "exclude": [
+    "dist/*"
+  ],
+  "outDir": "./dist",
+  "skipLibCheck": true
+}
